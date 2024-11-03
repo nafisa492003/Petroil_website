@@ -19,6 +19,9 @@ export default {
         'semi_white': '#b0b1b2',
         'text_black': '#000000',
       },
+      backgroundImage: {
+        'banner': "url('/src/assets/Banner.png')",
+      }
     },
   },
   plugins: [],
