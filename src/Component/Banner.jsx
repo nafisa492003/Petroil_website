@@ -10,7 +10,8 @@ const Banner = () => {
           <h1 className='font-Poppins font-bold text-center lg:text-start text-[30px] md:text-[64px] text-text_white'>
           We exist since 1975 on the <br/>oil and gas industry.
           </h1>
-          <Common_btn title={"LEARN MORE"} bgcolour={`red`} textcolour={`text_white`}/>
+          <Common_btn title="Learn More" bgcolour="bg-red" textcolour="text-text_white" />
+
         </Flex>
        
     </Container>
